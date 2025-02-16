@@ -1,1 +1,2 @@
-hello world
+<<<<<<< HEAD
+Коммиты в r_3 и в r_4
